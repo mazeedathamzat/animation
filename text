@@ -1,0 +1,38 @@
+/* .frame{
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+    perspective: 30px;
+}
+
+.square{
+    width: 50px;
+    height: 50px;
+    background-color: lightblue;
+    transform: rotatex(45deg);
+    transition:all 3s ease-in;
+}
+input{
+    border: 1px solid purple;
+    padding: 10px;
+    caret-color: purple;
+    /* display: flex; */
+
+/* }
+
+input:focus{
+outline:1px solid purple ;
+}
+input::placeholder{
+    color: purple;
+}
+
+.item :is(h1,h2,h4,p){
+     color: blue;
+     /* line-height: 20px; */
+/* }
+HTML{
+    <!-- <input type="text"placeholder ="search here"> -->
+*/ 
+
+
